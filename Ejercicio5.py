@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Sep  9 11:48:56 2025
-
-@author: 65681
-"""
 
 #Ejercicio 5
 import math as math
@@ -23,4 +19,5 @@ class Ejercicio5:
         SUMA = SUMA + X / Y
         print('El valor de la SUMA es:', SUMA)
 if __name__ == " __main__ " :
+
     Ejercicio5.main()  
